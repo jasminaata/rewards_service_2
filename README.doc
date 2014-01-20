@@ -1,4 +1,4 @@
-To run the tests run this commands:
+To run the tests run these commands:
 
 $ gem install rspec
 $ rspec spec/rewards_service_spec.rb
