@@ -1,0 +1,3 @@
+To run the tests run this command:
+
+rspec spec/rewards_service_spec.rb
